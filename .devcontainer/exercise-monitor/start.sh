@@ -13,3 +13,4 @@ tmux new-session -d -s git_config_monitor '/home/vscode/.vscode-remote/data/Mach
 # for pid in $(pgrep inotifywait); do kill -- "$pid"; done
 
 echo "Exercise Monitor: Started" >> /workspaces/exercise-monitor.log
+# test
